@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "PlayStation 5 Digital Edition",
+            "description": "Ігрова приставка PS5 + Бездротовий геймпад PlayStation5 Dualsense + Зарядна станція PlayStation5 Dualsense + Підписка PlayStation Plus на 12 місяців",
+            "price": 18000,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/223275067.jpg",
+            "author_id": 1
+        },
+        {
+            "id": 2,
+            "name": "HyperX Cloud II Red",
+            "description": "HyperX Cloud II включає новий USB-блок управління звуком, що підсилює звук і голос для ідеального Hi-Fi-геймінгу - ви почуєте все, чого не чули раніше.",
+            "price": 3800,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/260141291.jpg",
+            "author_id": 2
+        },
+        {
+            "id": 3,
+            "name": "Подушка WP Merchandise DC COMICS Flash",
+            "description": "Якщо ви любите допізна засиджуватися за улюбленим серіалом, коміксом або грою, тому часто недосипаєте, вам точно знадобиться подушка Flash",
+            "price": 250,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/231172248.jpg",
+            "author_id": 3
+        },
+        {
+            "id": 4,
+            "name": "Гра FIFA 22 для PS4",
+            "description": "Серед нових можливостей ігрового процесу FIFA 22 - велика стабільність на останньому рубежі завдяки зміні поведінки воротарів, нова фізика м'яча, вибухові ривки, що віддають належне прискоренню найшвидших футболістів світу, а також нові атакуючі тактики, що дозволяють контролювати гру команди",
+            "price": 1999,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/246680292.jpg",
+            "author_id": 3
+        },
+        {
+            "id": 5,
+            "name": "Гра Ratchet & Clank: Rift Apart для PS5",
+            "description": "Вас чекає вибухова міжпросторова пригода! Скакайте за вимірюваннями разом з Ретчет і Кланк, які вступають в боротьбу зі злим імператором з іншої реальності. ",
+            "price": 1800,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/160594913.jpg",
+            "author_id": 4
+        },
+        {
+            "id": 6,
+            "name": "Гра Sackboy: A Big Adventure для PS4",
+            "description": "Легендарний герой PlayStation повертається: захопливі пригоди у величезному тривимірному світі багатокористувацької гри-платформера з крутим сюжетом і яскравими епізодами!",
+            "price": 1800,
+            "photo_url": "https://content.rozetka.com.ua/goods/images/big/37870420.jpg",
+            "author_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Гра NBA 2K22 для PS5",
+            "description": "NBA 2K22 подарує вам цілий всесвіт баскетболу. Грайте на справжніх майданчиках NBA та WNBA проти реальних команд і гравців. Зберіть команду своєї мрії, додайте в неї зірок сьогодення і легенди минулого.",
+            "price": 2300,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/194831757.jpg",
+            "author_id": 3
+        },
+        {
+            "id": 8,
+            "name": "Гра Marvel Spider-Man: Miles Morales для PS5",
+            "description": "В новом приключении во вселенной Marvel’s Spider-Man юный Майлз Моралес пытается привыкнуть к своему новому дому и продолжает дело своего наставника Питера Паркера в качестве нового Человека-паука.",
+            "price": 1500,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/163284503.jpg",
+            "author_id": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Enot raketa",
+            "img": "https://i.ytimg.com/vi/UPZeAwCLxxs/maxresdefault.jpg",
+            "balance": 500
+        },
+        {
+            "id": 2,
+            "name": "Cool cat",
+            "img": "https://krasivosti.pro/uploads/posts/2021-04/thumbs/1617683586_3-p-koshachi-oboi-kot-na-avu-3.jpg",
+            "balance": 25500
+        },
+        {
+            "id": 3,
+            "name": "Trendy cat",
+            "img": "https://shutnikov.club/wp-content/uploads/2020/04/smeshnye_avatarki_dlya_muzhchin_10_05112027-1024x576.jpg",
+            "balance": 1200
+        },
+        {
+            "id": 4,
+            "name": "Cat catskiy",
+            "img": "https://shutnikov.club/wp-content/uploads/2020/04/smeshnye_avatarki_4_06111025-752x1024.jpg",
+            "balance": 7000
+        }
+    ]
+}
